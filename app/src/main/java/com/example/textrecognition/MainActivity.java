@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editText;
     private ImageView imageView;
 
-    private static final int CAMERA_REQUEST_CODE = 100;
+    private static final int CAMERA_REQUEST_CODE = 1000000000;
     private static final int STORAGE_REQUEST_CODE = 200;
     private static final int IMAE_PICK_GALARY_CODE = 300;
     private static final int IMAGE_PICK_CAMERA_CODE = 400;
